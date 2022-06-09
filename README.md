@@ -3,4 +3,4 @@ The fashion industry is a very volatile one. It depends on a huge number of fact
 
 In this project, I will leverage data published by H&M, that includes three different datasets namely: Transactions, Customers, Articles, to explore some of the factors mentioned above, and deliver insight from the data.
 
-If github says "Notebook took to long to render" then you can access it here: https://colab.research.google.com/drive/1jW4WSgsMplFYclcyx-GHRPOez7IQz6Bv?usp=sharing
+If github says "Notebook took too long to render" then you can access it here: https://colab.research.google.com/drive/1jW4WSgsMplFYclcyx-GHRPOez7IQz6Bv?usp=sharing
